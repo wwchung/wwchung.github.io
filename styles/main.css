@@ -347,3 +347,40 @@ footer {
     margin: 2rem;
   }
 }
+
+/* ----- PROJECT ----- */
+
+h2 {
+  font: 1.5em/1.8 'Rubik', sans-serif;
+}
+
+h3 {
+  font: 700 1.125em/1.8 'Lato', sans-serif;
+}
+
+#project-container {
+  padding: 2rem 0;
+}
+
+#project {
+  text-align: center;
+}
+
+.project__header {
+  color: #fff;
+  font: 4em 'Rubik', sans-serif;
+}
+
+.project__subheader {
+  color: #ffffffe6;
+  font: 1.25em 'Lato', sans-serif;
+  margin: 1em 0;
+}
+
+.badge {
+  width: 200px;
+}
+
+.bg-warsound {
+  color: #34515e;
+}
